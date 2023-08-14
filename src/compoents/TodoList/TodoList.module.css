@@ -1,0 +1,22 @@
+.todoContainer {
+    margin: 20px;
+    background-size: cover;
+  }
+  .btnStyle{
+    /* color: rgb(32, 13, 158); */
+    font-weight: 600;
+   
+  }
+  
+  @media screen and (max-width: 400px) {
+  
+  
+    .btnStyle {
+      margin: 18px 0px 10px 10px;
+      border-radius: 20px;
+      border: none;
+      padding: 5px 10px;
+    }
+  
+  
+  }

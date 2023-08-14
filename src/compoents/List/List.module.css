@@ -1,0 +1,22 @@
+.list {
+    display: inline-block;
+  }
+  
+  .itemBtn {
+    margin: 5px 5px;
+  }
+  
+  .listContainer {
+    margin-top: 20px;
+  }
+  
+  .itemDoneStyle {
+    background-color: rgb(218, 122, 185);
+    display: block;
+    height: 60px;
+    width: 500px;
+    /* text-align: center; */
+    padding: 10px;
+    margin:10px;
+    border: 1px solid green;
+  }

@@ -1,0 +1,9 @@
+.App{
+  text-align: center;
+  background-image: url('../public/bg.jpeg');
+  height: 850px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
